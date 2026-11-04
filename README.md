@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi, I'm Adidya Abimanyu</h1>
 
-<h3 align="center">
-  Software Engineer | Backend Developer | AI & Machine Learning
-</h3>
+<h3 align="center">Software Engineer | Backend Developer | AI & Machine Learning</h3>
 
 <p align="center">
   Informatics Graduate from Universitas Sebelas Maret
@@ -20,21 +18,22 @@
 ## About Me
 
 I'm an Informatics graduate from Universitas Sebelas Maret
-with a GPA of 3.64/4.00 and a strong interest in software
-engineering, backend development, and artificial intelligence.
+with a GPA of 3.64/4.00, interested in software engineering,
+backend development, and artificial intelligence.
 
-I have internship experience in web development and
-e-Learning implementation, where I worked on web applications,
+I have professional internship experience in web development
+and e-Learning implementation, working on web applications,
 content management systems, database management, and
 interactive training prototypes.
 
-I also have a background in Machine Learning through
-Bangkit Academy, with hands-on experience in Python,
-TensorFlow, Deep Learning, and AI-powered applications.
+My technical background also includes Machine Learning
+and Deep Learning through Bangkit Academy, where I gained
+hands-on experience with Python, TensorFlow, and
+ML-powered application development.
 
-Currently, I'm interested in building reliable software,
-developing backend systems, and exploring practical
-applications of artificial intelligence.
+I'm interested in building practical software solutions,
+developing reliable backend systems, and exploring
+real-world applications of artificial intelligence.
 
 ---
 
@@ -43,10 +42,10 @@ applications of artificial intelligence.
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,php,js,cpp,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,php,js,cpp,kotlin,c" />
 </p>
 
-**Frameworks & Technologies**
+**Frameworks, Libraries & Technologies**
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,flask,tensorflow,mysql,mongodb,html,css" />
@@ -55,7 +54,7 @@ applications of artificial intelligence.
 **Tools & Development Environment**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,unity" />
 </p>
 
 **Areas of Interest**
@@ -66,26 +65,46 @@ applications of artificial intelligence.
 - Database Management
 - Machine Learning & Deep Learning
 - Natural Language Processing
+- Retrieval-Augmented Generation (RAG)
 - Mobile Application Development
 
 ---
 
 ## Featured Projects
 
-### Software Engineering & Development
+A selection of projects demonstrating my experience
+in software development, backend systems,
+artificial intelligence, and problem-solving.
 
-| Project | Description | Technology |
+### AI & Machine Learning
+
+| Project | Description | Repository |
 |---|---|---|
-| [Project RPL](https://github.com/AdidyaAbimanyu/Project-RPL) | Web application developed as part of a software engineering project. | PHP, Laravel, Blade |
-| [Finite Automata Simulator](https://github.com/AdidyaAbimanyu/Finite-Automata-Simulator) | Web-based simulator for automata operations, including NFA-to-DFA conversion and DFA minimization. | Python, Flask, HTML |
-| [Linear Algebra Calculator](https://github.com/AdidyaAbimanyu/Linear-Algebra-Calculator) | Calculator implementing various linear algebra operations, including eigenvalues, eigenvectors, and SVD. | Python |
+| **RAG LLM** | A document-based AI application exploring Retrieval-Augmented Generation (RAG) and Large Language Model integration. | [View Project](https://github.com/AdidyaAbimanyu/rag-llm) |
+| **SleepWell** | An ML-powered mobile application developed during Bangkit Academy, focused on drowsiness detection and sleep quality tracking. | [View Project](https://github.com/AdidyaAbimanyu/SleepWell) |
+
+### Web Development & Software Engineering
+
+| Project | Description | Technology | Repository |
+|---|---|---|---|
+| **Portal Berita** | A news portal and content management platform developed during my web development experience. | Laravel | [View Project](https://github.com/AdidyaAbimanyu/portalberita) |
+| **Project RPL** | A web application developed as part of a software engineering project. | PHP, Laravel, Blade | [View Project](https://github.com/AdidyaAbimanyu/Project-RPL) |
+| **Finite Automata Simulator** | A web-based simulator for automata operations, including NFA-to-DFA conversion and DFA minimization. | Python, Flask | [View Project](https://github.com/AdidyaAbimanyu/Finite-Automata-Simulator) |
+| **Portfolio Website** | A personal website showcasing my background, technical skills, and development projects. | Web Technologies | [View Project](https://github.com/AdidyaAbimanyu/portfolio-website) |
 
 ### Algorithms & Computer Science
 
-| Project | Description | Technology |
+| Project | Description | Technology | Repository |
+|---|---|---|---|
+| **Linear Algebra Calculator** | Implements linear algebra operations, including eigenvalues, eigenvectors, diagonalization, and SVD. | Python | [View Project](https://github.com/AdidyaAbimanyu/Linear-Algebra-Calculator) |
+| **Sorting Algorithms** | Implementation of fundamental sorting algorithms, including Bubble, Insertion, Merge, Quick, and Selection Sort. | C++ | [View Project](https://github.com/AdidyaAbimanyu/Sorting-Algoritm) |
+| **Memory Allocation Algorithms** | Implements First Fit, Best Fit, and Worst Fit memory allocation strategies. | C | [View Project](https://github.com/AdidyaAbimanyu/Memory-Allocation-Algorithm) |
+
+### Community & Social Projects
+
+| Project | Description | Repository |
 |---|---|---|
-| [Sorting Algorithms](https://github.com/AdidyaAbimanyu/Sorting-Algoritm) | Implementation and exploration of fundamental sorting algorithms. | C++ |
-| [Memory Allocation Algorithms](https://github.com/AdidyaAbimanyu/Memory-Allocation-Algorithm) | Implementation of First Fit, Best Fit, and Worst Fit memory allocation strategies. | C |
+| **KKN Thematic Literacy Program** | A community service project focused on improving village library management and strengthening reading culture through literacy initiatives. | [View Project](https://github.com/AdidyaAbimanyu/kkn) |
 
 ---
 
@@ -96,18 +115,18 @@ applications of artificial intelligence.
 *March 2025 – July 2025*
 
 - Developed a news portal website using Laravel.
-- Built a CMS for article and media management.
+- Built a Content Management System (CMS) for article and media management.
 - Implemented backend functionality and responsive user interfaces.
-- Collaborated with editorial and design teams.
+- Collaborated with editorial and design teams to maintain consistent branding.
 
 **e-Learning Implementer Intern — Balai Pusdiklat PT KAI**
 
 *January 2025 – February 2025*
 
-- Designed business processes and flowcharts for a Learning Management System.
-- Developed a Knowledge Management System using PHP and MySQL.
+- Designed business processes and flowcharts for a Learning Management System (LMS).
+- Developed a Knowledge Management System (KMS) website using PHP and MySQL.
 - Built a Mixed Reality training prototype using Unity.
-- Collaborated with internal teams to support organizational learning objectives.
+- Collaborated with internal teams to align learning content with organizational objectives.
 
 ---
 
@@ -119,13 +138,19 @@ Bachelor of Informatics | 2022 – 2026
 
 GPA: **3.64 / 4.00**
 
+Relevant Coursework:
+Data Structures & Algorithms, Database Systems,
+Machine Learning, Software Engineering,
+Computer Networks, Web Development, and Mobile Development.
+
 **Bangkit Academy — Machine Learning Cohort**
 
 2024
 
 - Completed 200+ hours of structured learning in Machine Learning, Deep Learning, and Data Analysis.
 - Studied Python, TensorFlow, supervised and unsupervised learning, and model deployment.
-- Collaborated in a multidisciplinary team to develop an ML-powered mobile application.
+- Developed an ML-powered mobile application as a collaborative capstone project.
+- Collaborated in a multidisciplinary team of four members across Machine Learning, Mobile Development, and Cloud Computing.
 
 ---
 
@@ -133,33 +158,39 @@ GPA: **3.64 / 4.00**
 
 **Deep Learning-Based Image Steganography**
 
-Research on improving the robustness of the AttenHideNet
-end-to-end image steganography model through
-Distortion-Aware Training.
+Research focused on improving the robustness of the
+AttenHideNet end-to-end image steganography model
+through Distortion-Aware Training.
 
 The research investigates model resilience against
-JPEG compression, Gaussian noise, blur, and resizing.
+various image distortions, including:
 
-Manuscript under revision at the IAES International
-Journal of Artificial Intelligence (IJ-AI).
+- JPEG Compression
+- Gaussian Noise
+- Blur
+- Resizing
+
+**Publication Status:** Manuscript under revision
+(Revise & Resubmit) at the IAES International Journal
+of Artificial Intelligence (IJ-AI).
 
 ---
 
 ## Certifications
 
-- Machine Learning — DeepLearning.AI & Stanford University
-- TensorFlow Developer — DeepLearning.AI
-- Crash Course on Python — Google
-- Browser-based Models with TensorFlow.js — DeepLearning.AI
-- Device-based Models with TensorFlow Lite — DeepLearning.AI
-- Blockchain Basics
+- **Machine Learning** — DeepLearning.AI & Stanford University (2024)
+- **TensorFlow Developer** — DeepLearning.AI (2024)
+- **Crash Course on Python** — Google (2024)
+- **Browser-based Models with TensorFlow.js** — DeepLearning.AI (2024)
+- **Device-based Models with TensorFlow Lite** — DeepLearning.AI (2024)
+- **Blockchain Basics** (2025)
 
 ---
 
 ## Let's Connect
 
-I'm open to opportunities in software engineering,
-backend development, artificial intelligence,
+I'm open to professional opportunities in software
+engineering, backend development, artificial intelligence,
 and general IT.
 
 <p align="left">
